@@ -2,7 +2,7 @@
 
 Curso de Javascript en CODERHOUSE / 02/10/2020
 
-HOST: https://jmmolinar.github.io/ENTREGA_FINAL/index.html
+HOST: [Cotizador Brusa Design](https://jmmolinar.github.io/ENTREGA_FINAL/index.html)
 
 - SE AGREGA SPA SINGLE PAGE APPLICATION AL PROYECTO
 - LAS 3 URLs SON /solicitudes, /testimonios, y / AL HACER CLIC SOBRE EL LOGO SUPERIOR
@@ -14,4 +14,4 @@ HOST: https://jmmolinar.github.io/ENTREGA_FINAL/index.html
 - MEJORAS EN CSS
 - SE MANTIENE TODO LO DE LA 1ERA, 2DA Y 3ERA ENTREGA
 
-ESTE DESARROLLO FORMARÁ PARTE DEL EMPRENDIMIENTO DE https://www.brusacrea.com/
+Este proyecto es el inicio del Desarrollo Web de [Brusa Design](https://github.com/jmmolinar/BrusaCrea.com)
